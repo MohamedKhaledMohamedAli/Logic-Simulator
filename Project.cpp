@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : Project.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Author      : Mohamed Khaled
+// Description : Logic Simulator
 //============================================================================
 
 #include <iostream>
